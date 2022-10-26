@@ -11,3 +11,4 @@ Run the script
 Enter a positive integer to display a plot with collatz conjecture values for the positive integer: 21
 ```
 The plot
+![plot image](2022-10-26_23-32.png)
